@@ -1,3 +1,4 @@
 aiohttp==3.8.3
 pydantic==1.10.2
 python-dotenv==0.21.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
