@@ -6,7 +6,7 @@ async-timeout==3.0.1
 attrs==22.1.0
 autopep8==1.7.0
 blinker==1.5
-certifi==2022.6.15
+certifi==2023.7.22
 chardet==3.0.4
 click==7.1.2
 elasticsearch==7.14.0
