@@ -24,3 +24,7 @@ sentry-sdk==1.9.5
 blinker==1.5
 kafka-python==2.0.2
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+cryptography>=42.0.8 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+jinja2>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
